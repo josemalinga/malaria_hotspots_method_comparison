@@ -2,8 +2,10 @@
 Using a simulation model to compare different statistical methods to detect hotspots of malaria transmission
 
 # Code for running the hotspots simulation models
-J Malinga
-15.02.2021
+Updated by 
+Name: Josephine Malinga
+Date: 15.12.2023
+Email: josephine.malinga@unibas.ch
 
 For each replicate the code to RUN is the main code “code_files.R” whose components are outlined below
  - Set seed for each run
