@@ -3,12 +3,12 @@ Using a simulation model to compare different statistical methods to detect hots
 
 ## Code for running the hotspots simulation models
 Updated by 
-Name: Josephine Malinga
-Date: 15.12.2023
+Name: Josephine Malinga;
+Date: 15.12.2023;
 Email: josephine.malinga@unibas.ch
 
 ## Steps 0
-For each replicate the code to RUN is the main code “code_files.R” whose components are outlined below
+For each replicate the code to RUN is the main code “r files/code_files.R” whose components are outlined below
  - Set seed for each run
  
 ## Steps 1
