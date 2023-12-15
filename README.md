@@ -21,5 +21,13 @@ For each replicate the code to RUN is the main code “code_files.R” whose com
  
 # Step 3
 - Runs the simulation models according to hotspot characteristic. There are 6 types of hotspots; single, multiple, decay, river, short, long, seasonal
-- The output includes the cross sectional datasets at 3mo, 1y and 3y 
+- The output includes the cross sectional datasets at 3mo, 1y and 3y
+
+# Step 4
+- Runs the simulation models using the case files from Step 3 to obtain the bayesian results. 
+- The output includes the cross sectional datasets for all the shapes/sizes with a new variables for hotspot status for each household
+
+# Step 5
+- Using SaTScan detect the households in the hotspots for each shape/size
+- Run the code “extract_hotspots.R” to get new variables for hotspot status for each household as defined 
  
